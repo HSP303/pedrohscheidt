@@ -2,13 +2,15 @@
 
 👋 Hi there!
 
-Welcome to my GitHub profile! I'm Pedro Henrique Scheidt, a Brazilian student at Unidavi. Currently, I am cursuing the 5th phase of my undergraduate studies in Information Systems. In addition, I'm very interested in the cybersecurity area.
+Welcome to my GitHub profile! I'm Pedro Henrique Scheidt, a Brazilian student at Unidavi. Currently, I am cursuing the 7th phase of my undergraduate studies in Information Systems. In addition, I'm very interested in the cybersecurity area.
 
 ## 👨🏼‍💻 Skills and Interests:
 
 - Cybersecurity
 - Proficient in working with Python
-- Experienced with Support of Technology Information
+- Developer
+- DevOps
+- Cloud
 
 ## 📫 Contact
 
