@@ -7,10 +7,13 @@ Welcome to my GitHub profile! I'm Pedro Henrique Scheidt, a Brazilian student at
 ## 👨🏼‍💻 Skills and Interests:
 
 - Cybersecurity
-- Proficient in working with Python
 - Developer
 - DevOps
 - Cloud
+- Linux
+- Database
+- CI/CD
+- IaC
 
 ## 📫 Contact
 
